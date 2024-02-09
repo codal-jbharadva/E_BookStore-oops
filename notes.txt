@@ -1,0 +1,6 @@
+IN JS we can not entend two classes
+
+
+although get and set look like function but we need to access it like a variable
+
+in foreach loop we can not use break and continue   
